@@ -1,10 +1,11 @@
-# Título del trabajo
+# GYMNASTIKSKO
 
 Descripción breve del proyecto a realizar (2-3 frases).
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Sofía Guerrero Neto ()
+Micaela Cristina Amaya López (micaelacristina)
 
 ## Objetivos del trabajo
 
